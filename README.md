@@ -1,6 +1,6 @@
 # EasyESPNow
 
-EasyESPNow is a 3D-printed dongle design that converts a Seeed Studio XIAO ESP32C3 to a USB dongle for hobby wireless projects. With this dongle, you can easily control wireless robots with your laptop utilizing the [ESPNow protocol](https://www.espressif.com/en/solutions/low-power-solutions/esp-now). This repo hosts design files, bill of materials (BOM), and building instructions, and will potentially contain example firmware in the future.
+EasyESPNow is a 3D-printed dongle design that converts a [Seeed Studio XIAO ESP32C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) to a USB dongle for hobby wireless projects. With this dongle, you can easily control wireless robots with your laptop utilizing the [ESPNow protocol](https://www.espressif.com/en/solutions/low-power-solutions/esp-now). This repo hosts design files, bill of materials (BOM), and building instructions, and will potentially contain example firmware in the future.
 
 <p align="center">
   <img src="documentation_public/USBA_Image.jpg" alt="Image 1" width="45%" style="margin-right: 1%;">
