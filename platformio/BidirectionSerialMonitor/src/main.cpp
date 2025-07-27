@@ -10,8 +10,7 @@
 #include <ESPNowW.h>
 
 // THIS IS THE MAC ADDRESS OF YOUR SENDING TARGET, NOT YOUR OWN ADDRESS!
-// uint8_t receiver_mac[] = {0xEC, 0xDA, 0x3B, 0x38, 0x0C, 0x1C};
-uint8_t receiver_mac[] = {0x54, 0x32, 0x04, 0x86, 0xDD, 0x74};
+uint8_t receiver_mac[] = {0x24, 0xEC, 0x4A, 0xC9, 0x71, 0x0C};
 
 // Char array for sending and receiving data
 char myData[100];
